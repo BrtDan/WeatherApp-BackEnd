@@ -1,0 +1,16 @@
+# Ignora il file delle variabili d'ambiente
+.env
+
+# Ignora la cartella dei moduli node
+node_modules/
+
+# Ignora i file di log
+*.log
+
+# Ignora le cartelle di build
+dist/
+build/
+
+# Ignora le impostazioni dell'IDE
+.vscode/
+.idea/
